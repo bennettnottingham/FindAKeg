@@ -1,5 +1,3 @@
-Certainly! Here's the updated main section of the project description, which includes the details about the Tableau dashboard:
-
 # Project Description: FindAKeg
 
 ## Overview
