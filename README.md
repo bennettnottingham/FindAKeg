@@ -26,7 +26,7 @@ The Tableau dashboard adds a visual dimension to the data-driven decision-making
 
 The interactive nature of the dashboard enables users to customize their views, filter data, and gain deeper insights into specific aspects of the beer selection. This empowers businesses to optimize their keg choices, enhance customer satisfaction, and potentially increase sales.
 
-![tableau_portfolio](https://github.com/bennettnottingham/FindAKeg/assets/65934399/540e37cb-372f-4352-8951-e74013124572)
+![workflow](https://github.com/bennettnottingham/FindAKeg/assets/65934399/a3df2d1e-3083-45d7-98f9-f653382c3918)
 
 
 ## Technology Stack
@@ -36,7 +36,6 @@ The interactive nature of the dashboard enables users to customize their views, 
 - Front-End: A user-friendly web interface will be built and hosted on a local Chrome browser for easy access.
 
 ![workflow](https://github.com/bennettnottingham/FindAKeg/assets/65934399/2726409b-b11a-4467-b224-a8a6d139a1de)
-
 
 ## Project Deployment
 The final deliverable of the FindAKeg project will be a fully functional web application hosted on a local Chrome browser, providing draft-beer serving businesses with data-driven keg and beer recommendations. The Microsoft SQL Server Management Studio will serve as the centralized database for all essential data.
