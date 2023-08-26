@@ -1,5 +1,7 @@
 # Project Description: FindAKeg
 
+*Please Note:* The FindAKeg project is no longer accessible through a public url due to financial constraints maintaining the database and domain name.
+
 ## Overview
 FindAKeg is a web application that provides keg and beer recommendations based on gathered ratings and data from various sources. The platform is specifically designed to help restaurants and breweries efficiently find top-rated kegs that meet their customers' preferences. By simplifying the keg selection process and providing valuable data on keg prices, availability, and beer ratings, FindAKeg aims to revolutionize the way draft-beer serving businesses acquire kegs, making it more cost-effective and time-efficient.
 
